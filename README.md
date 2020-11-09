@@ -40,7 +40,7 @@ types de techniques :
 - des **annotations automatiques de textes** : nous utiliserons des
   métriques de complexité lexicale, de lisibilité, de complexité
   syntaxique [[Sousa et
-  al. 2020](https://www.aclweb.org/anthology/2020.iwltp-1.17/)] et des
+  al. 2020]](https://www.aclweb.org/anthology/2020.iwltp-1.17/)] et des
   annotations sémantiques pour mieux contrôler les types de pertes
   dans la traduction neuronale ;
 
@@ -49,7 +49,7 @@ types de techniques :
   2018]](https://www.sciencedirect.com/science/article/pii/S1051200417302385)
   pour la classification d’images. En s’appuyant sur des outils comme
   [seq2seq-Vis](https://seq2seq-vis.io/) ou
-  [[NeuroX](https://arxiv.org/abs/1812.09359), nous essayerons en
+  [NeuroX](https://arxiv.org/abs/1812.09359), nous essayerons en
   comparant les activations des neurones en fonction des propriétés
   linguistiques des énoncés à traduire, de comprendre comment
   s’effectue la division du travail dans la traduction neuronale et de
@@ -58,8 +58,8 @@ types de techniques :
 
 ## Partenaires
 
-- Guillaume Wisniewski (LLF)
-- François Yvon (LIMSI)
+- [Guillaume Wisniewski](https://gw17.github.io/) ([LLF](http://www.llf.cnrs.fr/))
+- [François Yvon](https://perso.limsi.fr/yvon/mysite/mysite.php) ([LIMSI](https://www.limsi.fr/fr/))
 - J.-B. Yunès (IRIF)
-- N. Ballier (CLILLAC-ARP)
+- [N. Ballier](http://www.clillac-arp.univ-paris-diderot.fr/user/nicolas_ballier) ([CLILLAC-ARP](http://www.clillac-arp.univ-paris-diderot.fr/index))
 
