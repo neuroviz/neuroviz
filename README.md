@@ -69,5 +69,5 @@ types de techniques :
 
 ## Financement
 
-![Logo IDF](https://www.iledefrance.fr/themes/custom/portail_idf/logo.svg)
+![Logo IDF](https://www.iledefrance.fr/themes/custom/portail_idf/logo.svg | width=600)
 Le projet Neuroviz est soutenu par la Région Ile-de-France dans le cadre d'un financement DIM RFSI 2020
