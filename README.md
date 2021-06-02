@@ -10,6 +10,8 @@ mesure, le « raisonnement » permettant d’obtenir celles-ci.
 
 # Réalisations
 
+- [Corpus pour l'évaluation des biais de genre dans les systèmes de traduction](https://github.com/neuroviz/neuroviz/tree/main/gender_analysis_in_mt)
+
 # Description du projet
 
 ## Actualité et enjeux
@@ -69,5 +71,6 @@ types de techniques :
 
 ## Financement
 
-![Logo IDF](logo.jpg)
+<img src="logo.jpg" alt="Logo IDF" width="200"/>
+
 Le projet Neuroviz est soutenu par la Région Ile-de-France dans le cadre d'un financement DIM RFSI 2020
