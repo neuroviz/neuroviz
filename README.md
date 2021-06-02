@@ -8,6 +8,10 @@ structures linguistiques et des représentations neuronales sur la
 qualité des traductions prédites et *expliquer*, dans une certaine
 mesure, le « raisonnement » permettant d’obtenir celles-ci.
 
+# Réalisations
+
+# Description du projet
+
 ## Actualité et enjeux
 
 Les systèmes de traduction neuronaux ont permis d’améliorer
@@ -63,3 +67,7 @@ types de techniques :
 - J.-B. Yunès (IRIF)
 - [N. Ballier](http://www.clillac-arp.univ-paris-diderot.fr/user/nicolas_ballier) ([CLILLAC-ARP](http://www.clillac-arp.univ-paris-diderot.fr/index))
 
+## Financement
+
+![Logo IDF](https://www.iledefrance.fr/themes/custom/portail_idf/logo.svg)
+Le projet Neuroviz est soutenu par la Région Ile-de-France dans le cadre d'un financement DIM RFSI 2020
