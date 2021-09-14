@@ -8,6 +8,12 @@ structures linguistiques et des représentations neuronales sur la
 qualité des traductions prédites et *expliquer*, dans une certaine
 mesure, le « raisonnement » permettant d’obtenir celles-ci.
 
+# Réalisations
+
+- [Corpus pour l'évaluation des biais de genre dans les systèmes de traduction](https://github.com/neuroviz/neuroviz/tree/main/gender_analysis_in_mt)
+
+# Description du projet
+
 ## Actualité et enjeux
 
 Les systèmes de traduction neuronaux ont permis d’améliorer
@@ -63,3 +69,8 @@ types de techniques :
 - J.-B. Yunès (IRIF)
 - [N. Ballier](http://www.clillac-arp.univ-paris-diderot.fr/user/nicolas_ballier) ([CLILLAC-ARP](http://www.clillac-arp.univ-paris-diderot.fr/index))
 
+## Financement
+
+<img src="logo.jpg" alt="Logo IDF" width="200"/>
+
+Le projet Neuroviz est soutenu par la Région Ile-de-France dans le cadre d'un financement DIM RFSI 2020
