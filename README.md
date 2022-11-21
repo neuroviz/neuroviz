@@ -68,7 +68,7 @@ types de techniques :
 ## Partenaires
 
 - [Guillaume Wisniewski](https://gw17.github.io/) ([LLF](http://www.llf.cnrs.fr/))
-- [François Yvon](https://perso.limsi.fr/yvon/mysite/mysite.php) ([LIMSI](https://www.limsi.fr/fr/))
+- [François Yvon](https://perso.limsi.fr/yvon/mysite/mysite.php) ([LIMSI, puis LISN](https://www.limsi.fr/fr/))
 - J.-B. Yunès (IRIF)
 - [N. Ballier](http://www.clillac-arp.univ-paris-diderot.fr/user/nicolas_ballier) ([CLILLAC-ARP](http://www.clillac-arp.univ-paris-diderot.fr/index))
 
