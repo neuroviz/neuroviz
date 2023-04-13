@@ -11,11 +11,11 @@ mesure, le « raisonnement » permettant d’obtenir celles-ci.
 # Réalisations
 
 - [Corpus pour l'évaluation des biais de genre dans les systèmes de traduction](https://github.com/neuroviz/neuroviz/tree/main/gender_analysis_in_mt)
-- [Publication à TALN'2021 (prix du meilleur papier)](https://aclanthology.org/2021.jeptalnrecital-taln.2/)
+- [Publication à TALN'2021 (prix du meilleur article)](https://aclanthology.org/2021.jeptalnrecital-taln.2/)
 - [Publication à BlackboxNLP'2021](https://aclanthology.org/2021.blackboxnlp-1.24/)
 - [Publication à TALN'2022 (atelier TAL-HN)](https://aclanthology.org/2022.jeptalnrecital-humanum.2/)
 - [Publication à BlackboxNLP'2022]()
-- [Publication à TAL](https://www.atala.org/content/tal_63_1_2)
+- [Publication dans la revue TAL](https://www.atala.org/content/tal_63_1_2)
 
 # Description du projet
 
